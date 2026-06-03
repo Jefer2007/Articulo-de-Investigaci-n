@@ -4,7 +4,7 @@
 ## Información del Estudiante
 
 - **Nombre completo: Jeferson Córdoba** 
-- **Carrera: Informática con énfasis en  Redes y Telecomunicación ** 
+- **Carrera: Informática con énfasis en  Redes y Telecomunicación** 
 - **Universidad: Universidad Tecnológica OTEIMA** 
 - **Correo institucional: jeferson.cordoba@oteima.ac.pa** 
 
