@@ -179,8 +179,9 @@ La integridad de los datos constituye uno de los pilares fundamentales de las ba
 
 # Referencias Bibliográficas
 
-1. Intelequia. (2024, 15 de enero). *Gestor de base de datos: qué es, funcionalidades y ejemplos*. Intelequia. https://intelequia.com/es/blog/post/gestor-de-base-de-datos-qu%C3%A9-es-funcionalidades-y-ejemplos
+1. Intelequia. (2024, 15 de enero). *Gestor de base de datos: qué es, funcionalidades y ejemplos*. Intelequia. https://intelequia.com/es/blog/post/gestor-de-base-de-datos-qu%C3%A9-es-funcionalidades-y-ejemplos/
 
 2. Universidad Europea. (s.f.). *¿Para qué sirve un gestor de bases de datos?* Universidad Europea. https://universidadeuropea.com/blog/para-que-sirve-gestor-base-datos/
 
 3. Universidad Internacional de La Rioja (UNIR). (2023, 24 de octubre). *Gestores de bases de datos: qué son, tipos y ejemplos*. UNIR México. https://mexico.unir.net/noticias/ingenieria/gestores-de-base-de-datos/
+   
