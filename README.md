@@ -1,4 +1,4 @@
-# Articulo-de-Investigaci-n
+# Articulo-de-Investigacion
 ## Gestores de Base de Datos y su importancia en el Manejo de la Información
 
 ## Información del Estudiante
